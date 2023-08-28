@@ -6,14 +6,17 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Marcos Henrique Gollin Filho
+- Pedro Henrique Franco Moreira Amaral
+- Matheus Militão Santos
+- Benjamin Jacob Goncalves
+- João Victor Machado Dorta Silva
+- Tassiano dos Santos Cardoso
 
 ## Professor
 
-- Mestre Yoda
+- Luciana de Nardin
+- Diego Gonçalves Pontes
 
 # Documentação
 
