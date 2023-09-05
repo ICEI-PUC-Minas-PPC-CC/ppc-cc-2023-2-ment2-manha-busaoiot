@@ -90,13 +90,17 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
 
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
+-O sistema deve mostrar a proximidade do onibus, assim, os usuarios pode sair para o ponto apenas no momento exato, por exemplo, caso há um atraso, as pessoas ficariam sabendo.
+-Quantos onibus fazem esse percurso durante o dia e quais os horarios gerais que passam, sem muita especificação, para melhor noção dos usuarios.
+-Um tabela dos onibus da regiao em que o usuario esta, e quando clicado em especifico ponto de onibus mostrar em quantos minutos passa o proximo do mesmo.
 - [Requisitos Não Funcionais
   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
+-As principais caracteristicas dessa aplicação seria a não necessidade do publico de correr perigo na rua esperando um ônibus
+-A comodidade de esperar em casa e não na rua. 
+-A noção de quanto tempo ira chegar no trabalho com maior exatidão.
+-Confiabilidade no programa quanto a exatidão do percurso.
+-Confiabilidade no programa quanto a exatidão do horário.
+-Grande variação de geolocalização, visto os vários pontos de ônibus mapeados.
 Lembre-se que cada requisito deve corresponder à uma e somente uma
 característica alvo da sua solução. Além disso, certifique-se de que
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
