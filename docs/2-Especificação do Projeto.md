@@ -111,6 +111,13 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ### Artefatos para levantamento de dados
 
-Nesta seção, caso seu grupo vá realizar algum tipo de levantamento de dados/entrevistas, descreva o(s) artefato(s) produzidos para tal. Também deverá ser descrita qual estratégia será utilizada para este levantamento. Por exemplo: como os questionários serão aplicados? (_in loco_, via disponibilização pela _web_ etc), qual material/estratégia de divulgação será utilizado? 
+Foram produzidos dois artefatos para levantamento de dados, o artefato numero um é um questionário feito no Google forms, via disponibilização pela web e  será divulgado em grupos/páginas relevantes em poços de caldas.
+o segundo artefato é um questionário feito no Google forms, que será preenchido in loco, procurando abordar pessoas nos pontos de ônibus e preenchendo o formulário ( O material a ser preenchido in loco pode também ser impresso porém com o Google forms é mais eficiente.)
 
-Não se preocupe em descrever os resultados agora, eles deverão ser descritos apenas na seção "Detalhamento preliminar" (Etapa 03).
+Material que será disponibilizado pela web: https://docs.google.com/forms/d/e/1FAIpQLSeiCC-UlCB4Gp3AtXTV23MTwZWK1IHCoDyKkAS3QU1_UR3j5Q/viewform?usp=sf_link
+
+Material que será preenchido in loco: https://docs.google.com/forms/d/e/1FAIpQLSdou_1PDT4T4_cgeFoaBfeSDPASLOGNGRWm8AhdrNDS7jFyMQ/viewform?usp=sf_link
+
+
+Futuros resultados serão descritos na seção "detalhamento preliminar" ( Etapa 3).
+
