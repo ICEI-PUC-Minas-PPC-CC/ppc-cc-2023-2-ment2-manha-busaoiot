@@ -1,17 +1,6 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites etc) utilizados no desenvolvimento do trabalho.
-
-As referências deverão ser apresentadas aqui, na ordem em que elas aparecem, nos textos dentro do repositório (a numeração também deve ser sequencial).
-
-Exemplos de referências:
-
-[1] ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001. 
-
-[2] CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
-
-> **Links Úteis**:
-> - [Normas ABNT PUC Minas](http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
-
+  de Araújo, M. R. M., de Oliveira, J. M., de Jesus, M. S., de Sá, N. R., do Santos, P. A. C., & Lima, T. C. (2011). Transporte público coletivo: Discutindo acessibilidade, mobilidade e qualidade de vida. Psicologia e Sociedade, 23(3). https://doi.org/10.1590/S0102-71822011000300015<br />
+  de Carvalho, C. H. R., & Pereira, R. H. M. (2011). Efeitos da variaç\\textasciitildeao da tarifa e da renda da populaç\\textasciitildeao sobre a demanda de transporte público coletivo urbano no Brasil (Issue 1595). Instituto de Pesquisa Econômica Aplicada (IPEA). http://hdl.handle.net/10419/91133<br />
+  Silveira, M. R., & Cocco, R. G. (2013). Transporte público, mobilidade e planejamento urbano: Contradições essenciais. Estudos Avancados, 27(79). https://doi.org/10.1590/S0103-40142013000300004<br />
+  Rodrigues, Marcos Antonio, and José Aparecido Sorratini. "A qualidade no transporte coletivo urbano." Panorama nacional da pesquisa em transportes (2008): 1081-1092<br />
