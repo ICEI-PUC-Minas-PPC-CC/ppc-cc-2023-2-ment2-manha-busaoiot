@@ -3,7 +3,7 @@
  O transporte público desempenha um papel vital nas cidades modernas, conectando pessoas a locais de trabalho, educação, lazer e serviços essenciais. No entanto, a falta de informações precisas e acessíveis sobre rotas, horários, preços e eventuais mudanças nos serviços de ônibus frequentemente representa um desafio significativo para um amplo espectro de passageiros. Este problema afeta não apenas o público em geral, mas também exige uma abordagem cuidadosa e objetivos específicos para resolvê-lo (1). <br />
    Este texto explora os desafios enfrentados pelas pessoas que dependem do transporte público, destacando os objetivos essenciais que devem ser estabelecidos para melhorar a experiência do usuário. Além disso, enfatizamos a importância de abordar essas questões, destacando as justificativas para investir na resolução desses problemas e os benefícios que essa ação pode trazer para as comunidades. Nosso público-alvo inclui não apenas os usuários diretos do transporte público, mas também planejadores urbanos, autoridades de transporte e todos aqueles interessados em promover sistemas de transporte público mais eficazes e acessíveis. A seguir, exploraremos esses elementos em detalhes.<br />
 
-## Problema
+# Problema
 
   Não saber as rotas dos ônibus, os horários de passagem, se os ônibus estão atrasados ou adiantados, o preço das passagens e eventuais mudanças pode levar a uma série de problemas e inconveniências para os passageiros e para o sistema de transporte público em geral. Aqui estão alguns dos problemas que podem surgir: (1) <br />
    1- Atrasos e Perda de Tempo: Sem conhecer os horários e as rotas dos ônibus, os passageiros podem perder tempo esperando em pontos de ônibus ou escolhendo rotas ineficientes, o que pode levar a atrasos nas atividades diárias.<br />
@@ -17,7 +17,7 @@
   
    Em resumo, a falta de informações sobre rotas, horários, atrasos, preços e mudanças nos sistemas de transporte público pode causar uma série de problemas para os passageiros e para a sociedade como um todo. É importante que as autoridades de transporte público forneçam informações atualizadas e acessíveis para garantir a eficiência e a conveniência do sistema.<br />
   
-## Objetivos e justificativas
+# Objetivos e justificativas
 
   O transporte público desempenha um papel fundamental na vida das pessoas e na funcionalidade das cidades. No entanto, uma série de desafios pode surgir quando os passageiros não têm acesso adequado a informações sobre rotas, horários, preços e eventuais mudanças no sistema. Para enfrentar esses problemas e melhorar a qualidade do transporte público, é essencial definir objetivos claros e efetivos. Vamos explorar alguns desses objetivos que podem ser perseguidos em busca de soluções (3).<br />
    1-	Acessibilidade e Inclusão: Um dos principais objetivos deve ser tornar o transporte público acessível a todos. Isso inclui tornar as informações sobre rotas e horários disponíveis em formatos acessíveis, como aplicativos de smartphone e painéis informativos em braille, para garantir que pessoas com deficiência também possam usar o transporte público de forma independente.<br />
@@ -32,7 +32,7 @@
    Em resumo, definir objetivos sólidos é o primeiro passo para a solução dos problemas relacionados ao transporte público. Quando os sistemas de transporte público trabalham em direção a esses objetivos, eles podem melhorar a experiência dos passageiros, promover a sustentabilidade e desempenhar um papel fundamental no desenvolvimento de cidades mais eficientes e acessíveis para todos.<br />
 
 
-## Público-Alvo
+# Público-Alvo
 
   As pessoas que sofrem com os problemas relacionados ao transporte público, como a falta de informações sobre rotas, horários, preços e eventuais mudanças nos serviços de ônibus, são diversas e incluem:<br />
    1-	Comutadores Diários: Aqueles que dependem do transporte público para ir e voltar do trabalho diariamente podem sofrer com atrasos, falta de informações precisas e problemas de planejamento que afetam suas rotinas e pontualidade no trabalho.<br />
