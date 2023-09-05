@@ -24,7 +24,7 @@ Exemplo:
 
   |**César Faria**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/cesar2.png" width="200" height="200"/>|**Idade:** 35 anos. **Naturalidade:** Águas da Prata - Minas Gerais. **Ocupação:** Frentista.       |**Atribuições:** : Abastecer veículos, fazer o atendimento de clientes, auxiliar com o pagamento dos serviços prestados, e ajudar na limpeza e manutenção de veículos.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/cesar2.png" width="200" height="200"/>|**Idade:** 35 anos. **Naturalidade:** Águas da Prata - São Paulo. **Ocupação:** Frentista.       |**Atribuições:** : Abastecer veículos, fazer o atendimento de clientes, auxiliar com o pagamento dos serviços prestados, e ajudar na limpeza e manutenção de veículos.
 |**Motivações:** : Prentende construir uma família com sua noiva, por isso precisa dinheiro para construir sua casa própria.
 |**Frustações:** : Como mora longe do posto em que trabalha, fica muito tempo no trajeto para casa, gerando um desconforto pois queria mais tempo para passar com sua noiva.
 |**Hobbies, história:** : Sair aos domingos com sua noiva para fazer algo diferente saindo assim da rotina.
