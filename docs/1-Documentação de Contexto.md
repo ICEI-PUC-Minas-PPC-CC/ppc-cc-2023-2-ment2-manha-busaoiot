@@ -1,43 +1,49 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+ O transporte público desempenha um papel vital nas cidades modernas, conectando pessoas a locais de trabalho, educação, lazer e serviços essenciais. No entanto, a falta de informações precisas e acessíveis sobre rotas, horários, preços e eventuais mudanças nos serviços de ônibus frequentemente representa um desafio significativo para um amplo espectro de passageiros. Este problema afeta não apenas o público em geral, mas também exige uma abordagem cuidadosa e objetivos específicos para resolvê-lo (1).
+ Este texto explora os desafios enfrentados pelas pessoas que dependem do transporte público, destacando os objetivos essenciais que devem ser estabelecidos para melhorar a experiência do usuário. Além disso, enfatizamos a importância de abordar essas questões, destacando as justificativas para investir na resolução desses problemas e os benefícios que essa ação pode trazer para as comunidades. Nosso público-alvo inclui não apenas os usuários diretos do transporte público, mas também planejadores urbanos, autoridades de transporte e todos aqueles interessados em promover sistemas de transporte público mais eficazes e acessíveis. A seguir, exploraremos esses elementos em detalhes.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+ Não saber as rotas dos ônibus, os horários de passagem, se os ônibus estão atrasados ou adiantados, o preço das passagens e eventuais mudanças pode levar a uma série de problemas e inconveniências para os passageiros e para o sistema de transporte público em geral. Aqui estão alguns dos problemas que podem surgir: (1)
+  1- Atrasos e Perda de Tempo: Sem conhecer os horários e as rotas dos ônibus, os passageiros podem perder tempo esperando em pontos de ônibus ou escolhendo rotas ineficientes, o que pode levar a atrasos nas atividades diárias.
+  2- Estresse e Frustração: A falta de informações precisas sobre horários e atrasos pode causar estresse e frustração, especialmente quando as pessoas estão atrasadas para o trabalho, compromissos ou compromissos importantes.
+  3- Ineficiência no Uso de Recursos: Se os ônibus estão atrasados, adiantados ou operando em rotas subutilizadas devido à falta de conhecimento, isso pode resultar em ineficiência na utilização dos recursos do sistema de transporte público.
+  4- Custos Financeiros: Não conhecer os preços das passagens pode levar a gastos excessivos ou falta de fundos para o transporte público, afetando o orçamento dos passageiros (2).
+  5- Desconforto e Superlotação: A falta de informações sobre mudanças nas rotas ou horários pode levar a situações de superlotação em determinados ônibus, tornando a viagem desconfortável e potencialmente perigosa.
+  6- Desconexão Social e Profissional: A falta de transporte público confiável pode afetar a capacidade das pessoas de participar de eventos sociais, atividades comunitárias e até mesmo compromissos profissionais, o que pode prejudicar relacionamentos e oportunidades.
+  7- Impacto Ambiental: Se os passageiros não sabem quando os ônibus passarão, podem optar por usar veículos individuais, contribuindo para congestionamentos de trânsito e aumentando as emissões de poluentes.
+  8- Desigualdade Social: A falta de informações sobre transporte público afeta desproporcionalmente pessoas de baixa renda, tornando ainda mais difícil para elas acessar oportunidades econômicas e serviços públicos.
+  
+  Em resumo, a falta de informações sobre rotas, horários, atrasos, preços e mudanças nos sistemas de transporte público pode causar uma série de problemas para os passageiros e para a sociedade como um todo. É importante que as autoridades de transporte público forneçam informações atualizadas e acessíveis para garantir a eficiência e a conveniência do sistema.
+  
+## Objetivos e justificativas
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+ O transporte público desempenha um papel fundamental na vida das pessoas e na funcionalidade das cidades. No entanto, uma série de desafios pode surgir quando os passageiros não têm acesso adequado a informações sobre rotas, horários, preços e eventuais mudanças no sistema. Para enfrentar esses problemas e melhorar a qualidade do transporte público, é essencial definir objetivos claros e efetivos. Vamos explorar alguns desses objetivos que podem ser perseguidos em busca de soluções (3).
+  1-	Acessibilidade e Inclusão: Um dos principais objetivos deve ser tornar o transporte público acessível a todos. Isso inclui tornar as informações sobre rotas e horários disponíveis em formatos acessíveis, como aplicativos de smartphone e painéis informativos em braille, para garantir que pessoas com deficiência também possam usar o transporte público de forma independente.
+  2-	Eficiência Operacional: Para melhorar a eficiência do transporte público, os sistemas devem definir metas específicas relacionadas ao cumprimento dos horários e à minimização de atrasos. Isso pode incluir investimentos em manutenção de veículos e infraestrutura, bem como o uso de tecnologia para monitorar em tempo real a posição dos ônibus e tomar medidas corretivas rapidamente.
+  3-	Transparência de Informações: O objetivo de fornecer informações claras e atualizadas é fundamental. Isso envolve a criação de portais online e aplicativos móveis que disponibilizem informações precisas sobre horários, rotas, preços e eventuais mudanças no serviço. Além disso, as informações devem ser apresentadas de forma intuitiva para os passageiros.
+  4-	Planejamento de Rotas Eficientes: Um objetivo importante é otimizar as rotas de ônibus para atender às necessidades da população de maneira eficiente. Isso pode incluir a análise de dados de demanda e a colaboração com urbanistas para criar rotas que minimizem os tempos de viagem e os transtornos para os passageiros (3).
+  5-	Sustentabilidade Ambiental: O transporte público deve trabalhar em direção à redução de emissões de carbono e à promoção de modos de transporte mais sustentáveis. Isso pode ser alcançado estabelecendo metas para a introdução de veículos elétricos ou a melhoria da infraestrutura para ciclistas e pedestres nas áreas servidas pelos ônibus.
+  6-	Participação da Comunidade: Incentivar a participação da comunidade na tomada de decisões relacionadas ao transporte público é um objetivo crucial. Isso pode ser alcançado por meio de reuniões públicas, pesquisas de satisfação e fóruns online, garantindo que os passageiros tenham uma voz ativa na melhoria do sistema.
+  7-	Integração Multimodal: Promover a integração entre diferentes modos de transporte, como ônibus, metrô, trem e bicicletas, é um objetivo importante para facilitar a mobilidade dos passageiros. Isso envolve a criação de tarifas integradas e a implementação de conexões eficientes entre os diferentes serviços.
+  8-	Segurança e Conforto: Garantir a segurança dos passageiros e oferecer um ambiente confortável é fundamental. Isso inclui a definição de metas para a manutenção de veículos, a limpeza de estações e veículos, bem como a formação adequada dos motoristas em relação à segurança dos passageiros (4).
 
-## Objetivos
+  Em resumo, definir objetivos sólidos é o primeiro passo para a solução dos problemas relacionados ao transporte público. Quando os sistemas de transporte público trabalham em direção a esses objetivos, eles podem melhorar a experiência dos passageiros, promover a sustentabilidade e desempenhar um papel 
+fundamental no desenvolvimento de cidades mais eficientes e acessíveis para todos.
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
-## Justificativa
-
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
-
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+ As pessoas que sofrem com os problemas relacionados ao transporte público, como a falta de informações sobre rotas, horários, preços e eventuais mudanças nos serviços de ônibus, são diversas e incluem:
+  1-	Comutadores Diários: Aqueles que dependem do transporte público para ir e voltar do trabalho diariamente podem sofrer com atrasos, falta de informações precisas e problemas de planejamento que afetam suas rotinas e pontualidade no trabalho.
+  2-	Estudantes: Estudantes que utilizam o transporte público para ir à escola, universidade ou atividades extracurriculares enfrentam desafios semelhantes, com atrasos e incertezas que podem impactar seu desempenho acadêmico e pontualidade.
+  3-	Idosos e Pessoas com Deficiência: Passageiros mais vulneráveis, como idosos e pessoas com deficiência, podem ter dificuldades adicionais para acessar informações ou acomodar atrasos e problemas no transporte público.
+  4-	Pessoas de Baixa Renda: Para muitas pessoas de baixa renda, o transporte público é a única opção viável de mobilidade. Problemas no sistema podem resultar em custos financeiros adicionais, como a necessidade de usar táxis ou outros meios de transporte mais caros quando os ônibus não são confiáveis.
+  5-	Pessoas que Dependem Exclusivamente do Transporte Público: Aquelas que não possuem um carro próprio e dependem exclusivamente do transporte público para suas necessidades diárias são altamente afetadas por qualquer problema no sistema.
+  6-	Turistas e Visitantes: Pessoas que não estão familiarizadas com a cidade ou a região dependem das informações precisas sobre transporte público para se locomoverem de maneira eficiente e aproveitarem sua estadia.
+  7-	Residentes de Áreas Periféricas: Moradores de áreas periféricas muitas vezes enfrentam tempos de viagem mais longos e podem ser mais afetados por atrasos ou mudanças no transporte público, já que têm menos opções de mobilidade.
+  8-	Trabalhadores do Setor de Serviços de Transporte: Motoristas de ônibus e funcionários do setor de transporte público também podem sofrer com problemas no sistema, incluindo pressão para cumprir horários apertados e lidar com a insatisfação dos passageiros.
+  9-	Empresas e Economia Local: Problemas no transporte público também podem afetar as empresas, uma vez que funcionários podem enfrentar atrasos no trabalho, levando à perda de produtividade. Além disso, uma rede de transporte público eficaz é essencial para atrair negócios e turistas para uma área, impactando a economia local.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+  Em resumo, a falta de um sistema de transporte público confiável e eficiente afeta uma ampla gama de pessoas e comunidades, prejudicando a mobilidade, a qualidade de vida e o funcionamento geral das cidades e regiões. Portanto, a melhoria do transporte público é uma preocupação importante para a sociedade como um todo.
