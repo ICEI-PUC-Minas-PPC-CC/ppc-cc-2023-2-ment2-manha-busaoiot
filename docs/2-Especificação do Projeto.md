@@ -8,10 +8,31 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Exemplo:
 
-|**Camila Fiães**|           |                             | 
+|**Jorge Almeida**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/jorge.jpg" width="200" height="200"/>|**Idade:** 29 anos. **Naturalidade:** Pouso Alegre - Minas Gerais. **Ocupação:** Estoquista.       |**Atribuições:** Responsável por fazer o recebimento, a conferência, a verificação da validade e do estoque dos produtos. Além disso, ele realiza balanços, inventários e relatórios. 
+|**Motivações:** : Almeja um cargo mais alto dentro da empresa, para prover maior conforto a sua família.
+  |**Frustações:** : Dificuldades de administrar seu tempo, pois mora longe da empresa onde trabalha e chega muito tarde e cansado em casa.
+  |**Hobbies, história:** : Conhecer lugares diferentes em seu tempo livre com sua família.
+
+|**Alice Gonzaga**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/alice.jpg" width="200" height="200"/>|**Idade:** 52 anos. **Naturalidade:** Inconfidentes - Minas Gerais. **Ocupação:** Vendedora.       |**Atribuições:** : Responsável por fechar novos negócios e trazer receita. Suas principais atividades incluem prospectar clientes, realizar apresentaçõese e enviar propostas comerciais.
+|**Motivações:** : Planeja uma aposentadoria tranquila, para que possa descansar e viajar com seu marido.
+
+  |**Frustações:** :Sempre muito preocupada com as metas a serem batidas, muitas vezes perde o sono e  precisa acordar cedo para pegar ônibus para chegar a empresa. Isso consequentemente não acaba gerando um bom desempenho no trabalho.
+
+  |**Hobbies, história:** : Passear com seu cachorro e ir para o sítio de seus pais.
+
+  |**César Faria**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/cesar.jpg" width="200" height="200"/>|**Idade:** 35 anos. **Naturalidade:** Águas da Prata - Minas Gerais. **Ocupação:** Frentista.       |**Atribuições:** : Abastecer veículos, fazer o atendimento de clientes, auxiliar com o pagamento dos serviços prestados, e ajudar na limpeza e manutenção de veículos.
+|**Motivações:** : Prentende construir uma família com sua noiva, por isso precisa dinheiro para construir sua casa própria.
+|**Frustações:** : Como mora longe do posto em que trabalha, fica muito tempo no trajeto para casa, gerando um desconforto pois queria mais tempo para passar com sua noiva.
+|**Hobbies, história:** : Sair aos domingos com sua noiva para fazer algo diferente saindo assim da rotina.
+
+
+
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
