@@ -16,7 +16,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |**Alice Gonzaga**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/alice2.png" width="200" height="200"/>|**Idade:** 52 anos. **Naturalidade:** Inconfidentes - Minas Gerais. **Ocupação:** Vendedora.       |**Atribuições:** : Responsável por fechar novos negócios e trazer receita. Suas principais atividades incluem prospectar clientes, realizar apresentaçõese e enviar propostas comerciais.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-busaoiot/blob/main/docs/img/alice2.png" width="200" height="200"/>|**Idade:** 52 anos. **Naturalidade:** Inconfidentes - Minas Gerais. **Ocupação:** Vendedora.       |**Atribuições:** : Responsável por fechar novos negócios e trazer receita. Suas principais atividades incluem prospectar clientes, realizar apresentaçõese e enviar propostas comerciais.
 |**Motivações:** : Planeja uma aposentadoria tranquila, para que possa descansar e viajar com seu marido.
   |**Frustações:** :Sempre muito preocupada com as metas a serem batidas, muitas vezes perde o sono e  precisa acordar cedo para pegar ônibus para chegar a empresa. Isso consequentemente não acaba gerando um bom desempenho no trabalho.
 |**Hobbies, história:** : Passear com seu cachorro e ir para o sítio de seus pais.
