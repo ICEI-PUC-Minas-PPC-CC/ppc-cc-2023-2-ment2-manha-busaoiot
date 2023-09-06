@@ -9,7 +9,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |**Jorge Almeida**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/jorge2.png" width="200" height="200"/>|**Idade:** 29 anos. **Naturalidade:** Pouso Alegre - Minas Gerais. **Ocupação:** Estoquista.       |**Atribuições:** Responsável por fazer o recebimento, a conferência, a verificação da validade e do estoque dos produtos. Além disso, ele realiza balanços, inventários e relatórios. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-busaoiot/blob/main/docs/img/jorge2.png" width="200" height="200"/>|**Idade:** 29 anos. **Naturalidade:** Pouso Alegre - Minas Gerais. **Ocupação:** Estoquista.       |**Atribuições:** Responsável por fazer o recebimento, a conferência, a verificação da validade e do estoque dos produtos. Além disso, ele realiza balanços, inventários e relatórios. 
 |**Motivações:** : Almeja um cargo mais alto dentro da empresa, para prover maior conforto a sua família.
   |**Frustações:** : Dificuldades de administrar seu tempo, pois mora longe da empresa onde trabalha e chega muito tarde e cansado em casa.
   |**Hobbies, história:** : Conhecer lugares diferentes em seu tempo livre com sua família.
