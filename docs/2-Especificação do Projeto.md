@@ -64,3 +64,19 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
+
+
+
+
+### Artefatos para levantamento de dados
+
+Foram produzidos dois artefatos para levantamento de dados, o artefato numero um é um questionário feito no Google forms, via disponibilização pela web e  será divulgado em grupos/páginas relevantes em poços de caldas.
+o segundo artefato é um questionário feito no Google forms, que será preenchido in loco, procurando abordar pessoas nos pontos de ônibus e preenchendo o formulário ( O material a ser preenchido in loco pode também ser impresso porém com o Google forms é mais eficiente.)
+
+Material que será disponibilizado pela web: https://docs.google.com/forms/d/e/1FAIpQLSeiCC-UlCB4Gp3AtXTV23MTwZWK1IHCoDyKkAS3QU1_UR3j5Q/viewform?usp=sf_link
+
+Material que será preenchido in loco: https://docs.google.com/forms/d/e/1FAIpQLSdou_1PDT4T4_cgeFoaBfeSDPASLOGNGRWm8AhdrNDS7jFyMQ/viewform?usp=sf_link
+
+
+Futuros resultados serão descritos na seção "detalhamento preliminar" ( Etapa 3).
