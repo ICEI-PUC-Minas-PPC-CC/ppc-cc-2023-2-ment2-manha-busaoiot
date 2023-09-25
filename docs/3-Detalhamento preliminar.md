@@ -36,7 +36,7 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 |2| Introdução ao funcionamento de um compilador   | 20 minutos |
 
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
-
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 idade dos Respondentes:
 Menos de 15 anos: 0 (0%)
 16 a 20 anos: 15 (50%)
