@@ -12,6 +12,7 @@
 - Benjamin Jacob Goncalves
 - João Victor Machado Dorta Silva
 - Tassiano dos Santos Cardoso
+- Caio Henrique Carvalho De Paiva 
 
 ## Professor
 
