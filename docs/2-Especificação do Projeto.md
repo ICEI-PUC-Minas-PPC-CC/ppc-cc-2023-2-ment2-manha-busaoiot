@@ -57,9 +57,6 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
 -Confiabilidade no programa quanto a exatidão do percurso.
 -Confiabilidade no programa quanto a exatidão do horário.
 -Grande variação de geolocalização, visto os vários pontos de ônibus mapeados.
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
