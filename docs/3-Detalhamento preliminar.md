@@ -3,11 +3,6 @@
 Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
 Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
 
-|Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
-|------|-----------------------------------------|----|
-|1| Introdução à lógica de programação | 30 minutos | 
-|2| Introdução ao funcionamento de um compilador   | 20 minutos |
-
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 idade dos Respondentes:
@@ -40,11 +35,11 @@ Faculdade e afazeres diários: 1 (3,3%)
 Trabalho e motivos pessoais de deslocamento: 1 (3,3%)
 
 Satisfação com Horários dos Ônibus:
-Muito Satisfeito: 1 (13,3%)
-Satisfeito: 2 (26,7%)
+Muito Satisfeito: 1 (3,33%)
+Satisfeito: 2 (6,67%)
 Moderadamente Satisfeito: 12 (40%)
-Insatisfeito: 11 (36,7%)
-Muito Insatisfeito: 4 (13,3%)
+Insatisfeito: 11 (36,67%)
+Muito Insatisfeito: 4 (13,33%)
 
 Frequência de Atrasos nas Linhas:
 Baixa (1 a cada 10 viagens): 8 (26,7%)
@@ -52,12 +47,12 @@ Média (3 a cada 10 viagens): 16 (53,3%)
 Alta (5 a cada 10 viagens): 3 (10%)
 Rotineiro (Quase todas as viagens): 3 (10%)
 
-Segurança nos Pontos de Embarque e Desembarque:
+Segurança nos pontos de embarque e desembarque
 Muito seguro: 0 (0%)
-Seguro: 4 (16,7%)
-Moderadamente Seguro: 12 (50%)
+Seguro: 4 (13,3%)
+Moderadamente Seguro: 12 (40%)
 Inseguro: 9 (30%)
-Muito Inseguro: 5 (20%)
+Muito Inseguro: 5 (16,7%)
 
 Estrutura dos Pontos de Ônibus:
 Excelente: 0 (0%)
@@ -74,10 +69,10 @@ Negativo: 0 (0%)
 Muito Negativo: 1 (3,3%)
 
 Preferência para ser Informado pelo Dispositivo nos Pontos de Ônibus:
-Sabendo a distância do ônibus até este ponto: 1 (16,7%)
+Sabendo a distância do ônibus até este ponto: 1 (3,3%)
 Sabendo o tempo que o ônibus levará para chegar ao ponto: 23 (76,7%)
-Sabendo a quanto pontos de distância do meu ponto o ônibus está: 5 (16,7%)
-Não acho relevante: 1 (16,7%)
+Sabendo a quantos pontos de distância do meu ponto o ônibus está: 5 (16,7%)
+Não acho relevante: 1 (3,3%))
 
 Estes são os dados com base nas respostas fornecidas pelos respondentes da pesquisa "Conhecendo sua opinião sobre o transporte coletivo (Ônibus) de Poços de Caldas".
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
