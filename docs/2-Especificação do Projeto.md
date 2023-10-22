@@ -40,7 +40,7 @@ Exemplo:
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
-# Requisitos Funcionais
+# Requisitos Funcionais 1.0
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -57,6 +57,12 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
 -Confiabilidade no programa quanto a exatidão do percurso.
 -Confiabilidade no programa quanto a exatidão do horário.
 -Grande variação de geolocalização, visto os vários pontos de ônibus mapeados.
+
+# Requisitos Funcionais 2.0
+
+- [Requisitos Funcionais 
+- Cadastro de Usuário, Agendamento de Viagens, Rotas e horários, Simplificação das Informações, Pagamentos, Avaliações e Comentários, Gerenciamento de Contas, Notificações em Tempo Real, Histórico de Viagens, Suporte ao Cliente e Segurança e Privacidade.
+
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
