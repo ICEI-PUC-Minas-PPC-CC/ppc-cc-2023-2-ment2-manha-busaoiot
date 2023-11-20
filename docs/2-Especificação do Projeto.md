@@ -61,15 +61,12 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
 # Requisitos Funcionais 2.0
 
 - Requisitos Funcionais 
-- Cadastro de Usuário, Agendamento de Viagens, Rotas e horários, Simplificação das Informações, Pagamentos, Avaliações e Comentários, Gerenciamento de Contas, Notificações em Tempo Real, Histórico de Viagens, Suporte ao Cliente e Segurança e Privacidade.
+- Agendamento de Viagens, Rotas e horários, Simplificação das Informações, Pagamentos, Avaliações e Comentários, Notificações em Tempo Real, Suporte ao Cliente e Segurança e Privacidade.
 
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
-
 
 
 ### Artefatos para levantamento de dados
