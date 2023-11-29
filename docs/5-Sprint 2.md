@@ -33,7 +33,7 @@ Essa página é ativada quando o usuário seleciona a opção de favoritos na te
 <br><br>
 
 ![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-busaoiot/assets/126510019/db32c067-2ede-464e-9d4b-e0527f1fb903)<br>
-CONFIRMAÇÂO:<br>
+CONFIRMAÇÃO:<br>
 A página de confirmação vem após digitar o endereço na pagina de busca, onde apresenta o ponto mais próximo do usuário, o tempo até o ônibus da linha desejada passar e
 o nivel de segurança.
 <br><br>
