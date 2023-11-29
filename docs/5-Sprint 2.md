@@ -35,12 +35,12 @@ o nivel de segurança.
 
 ![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-busaoiot/assets/126510019/1f1b82e2-8306-4895-a2d9-cf15270fa621)<br>
 ROTA:
-A ultima página, de rota,  mostra pelo mapa qual será a tragetória percorrida pelo ônibus, um alerta do valor da passagem e o horário de chegada no destino desejado pelo usuário.
+A penúltima página, de rota,  mostra pelo mapa qual será a tragetória percorrida pelo ônibus, um alerta do valor da passagem e o horário de chegada no destino desejado pelo usuário.
 <br><br>
 
 ![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-busaoiot/assets/142808888/917604e1-b2e8-4f87-abe2-b324093b14c2)<br>
 FAVORITOS:
-Já a última pagina é caso o úsuario aperte a opção de favoritos na tela de busca, mostrando assim os locais favoritos para que seja um processo mais rápido do que escrever o endereço do lugar desejado.
+A última página é ativada quando o usuário seleciona a opção de favoritos na tela de busca, exibindo rapidamente os locais favoritos para agilizar o processo em comparação com a digitação do endereço desejado.
 <br><br>
 
 Com o resultado final, desenvolvemos uma página de login, uma página de busca, uma de localização do ponto e linha do passageiro e uma do trajeto final.
