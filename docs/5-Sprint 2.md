@@ -19,7 +19,12 @@ APLICATIVO:<br><br>
 LOGIN:<br>
 Pagina de login, é uma pagina simples para todo usuario entende-da, nela é inserido um e-mail e senha, além de compartilhar sua localização com o app para rastreamento do usuário.
 O login será util para atalhos a cada cliente, onde o mesmo acessa sua casa e seus favoritos.
+<br><br>
 
+![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-busaoiot/assets/126510019/42361b1c-e88c-4268-a972-51ddc80c25a7)<br>
+BUSCA:<br>
+A pagina de busca segue um padrão de outros aplicativos, um modelo intuitivo, onde se apresenta um mapa, e uma caixa de texto para inserir o endereço.
+No mapa é possiver ver a localização do usuário e dos pontos de ônibus da região, com intuito de auxiliar o cliente a se locomover até o local desejado.
 
 
 Com o resultado final, desenvolvemos uma página de login, uma página de busca, uma de localização do ponto e linha do passageiro e uma do trajeto final.
