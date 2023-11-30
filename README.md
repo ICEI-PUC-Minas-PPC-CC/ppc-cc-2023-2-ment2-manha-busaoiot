@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# BUSÃO IOT
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: MENTORING II`
@@ -14,7 +14,7 @@
 - Tassiano dos Santos Cardoso
 - Caio Henrique Carvalho De Paiva 
 
-## Professor
+## Professores
 
 - Luciana de Nardin
 - Diego Gonçalves Pontes
