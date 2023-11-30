@@ -61,7 +61,7 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
 # Requisitos Funcionais 2.0
 
 - Requisitos Funcionais 
-- Agendamento de Viagens, Rotas e horários, Simplificação das Informações, Pagamentos, Avaliações e Comentários, Notificações em Tempo Real, Suporte ao Cliente e Segurança e Privacidade.
+- Rotas e horários, Simplificação das Informações, Pagamentos, Avaliações e Comentários, Notificações em Tempo Real, Suporte ao Cliente e Segurança e Privacidade.
 
 
 > **Links Úteis**:
