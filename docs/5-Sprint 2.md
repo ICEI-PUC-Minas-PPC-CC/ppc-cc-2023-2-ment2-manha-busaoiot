@@ -46,3 +46,9 @@ A última página, de rota,  mostra pelo mapa qual será a tragetória percorrid
 
 Com o resultado final, desenvolvemos uma página de login, uma página de busca, uma de localização do ponto e linha do passageiro e uma do trajeto final.
 Link do app para Sprint2:https://gallery.appinventor.mit.edu/?galleryid=933ec465-0778-43eb-9ee6-b61c733bbbb8
+
+
+# Variação 2
+
+Link levará ao figma para ver a montagem das telas e com a possibilidade de usar o metodo 'prototype' para usar as imagens como navegação fluida: https://www.figma.com/file/Z7ZIeIBusKAtpp9aYwW5B4/busaoiot?type=design&t=4MHJnQqJBffEQmIH-6
+Link do video no qual foi apresentado e mostrado o protótipo: 
