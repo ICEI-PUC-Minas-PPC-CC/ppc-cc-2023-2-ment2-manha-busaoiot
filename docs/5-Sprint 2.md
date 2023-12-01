@@ -50,6 +50,8 @@ Link do app para Sprint2:https://gallery.appinventor.mit.edu/?galleryid=933ec465
 
 # Variação 2
 
+Como os alunos João Victor e Caio Paiva não puderam participar da reunião que foi feito o outro protótipo, decidimos (joão e caio) que para poder ter contribuido com essa parte também fariamos uma prototipação!
+
 Link levará ao figma para ver a montagem das telas e com a possibilidade de usar o metodo 'prototype' para usar as imagens como navegação fluida: https://www.figma.com/file/Z7ZIeIBusKAtpp9aYwW5B4/busaoiot?type=design&t=4MHJnQqJBffEQmIH-6
 
 Link do video no qual foi apresentado e mostrado o protótipo: 
