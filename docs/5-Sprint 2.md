@@ -45,7 +45,8 @@ A última página, de rota,  mostra pelo mapa qual será a tragetória percorrid
 
 
 Com o resultado final, desenvolvemos uma página de login, uma página de busca, uma de localização do ponto e linha do passageiro e uma do trajeto final.
-Link do app para Sprint2:https://gallery.appinventor.mit.edu/?galleryid=933ec465-0778-43eb-9ee6-b61c733bbbb8
+Link do app para Sprint2:https://gallery.appinventor.mit.edu/?galleryid=933ec465-0778-43eb-9ee6-b61c733bbbb8 
+Link do video de apresentação do app: https://youtu.be/jDgjLU62DHU?si=po9ySJhTuCNmZLz1
 
 
 # Variação 2
