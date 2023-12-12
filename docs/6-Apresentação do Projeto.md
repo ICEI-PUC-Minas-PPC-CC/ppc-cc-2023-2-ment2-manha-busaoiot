@@ -96,3 +96,7 @@ Achou a ideia muito boa! Só disse que o layout poderia sem mais limpo.
 
 No seu dia a dia, você utilizaria um aplicativo como este? Por que? 
 Sim, muitas vezes sai de casa sem saber onde o ônibus esta e tem que ficar algumas vezes até mais que 15 min no ponto esperando.
+
+## análise
+
+No geral, os dados coletados revelaram uma recepção muito positiva em relação à ideia do aplicativo e à sua facilidade de uso. Entretanto, observou-se um padrão de questionamentos em relação ao layout e às cores do aplicativo. Talvez uma abordagem mais minimalista e eficiente possa atender às expectativas dos usuários neste modelo de aplicativo. Além disso, é importante ressaltar que a aplicação cumpre efetivamente com o que se propõe.
